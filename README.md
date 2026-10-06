@@ -14,8 +14,8 @@ The purpose of this project is to map the locations of colleges and universities
 
 ## Data Sources
 
-- USDA U.S. State Boundaries
-- Athletes In Action Campus Ministry Dataset
+- US Census Bureau -- U.S. State Boundaries 
+- Athletes In Action -- Campus Ministry Dataset
 
 ## Static Maps
 
