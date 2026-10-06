@@ -43,4 +43,4 @@ AIA Campus Static8000.png
 
 ## Interactive Map
 
-An Embedded Zoomable version of this map can be found [here](https://mcrowhurst.github.io/MAP671-F26-FinalProject/QGIS-Zoom/index.html).
+An Embedded Zoomable version of this map can be found [here](https://github.com/mcrowhurst/MAP671-F26-FinalProject/blob/main/QGIS-Zoom/index.html).
